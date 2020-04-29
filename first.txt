@@ -5,3 +5,6 @@
 保存フォルダにて、 git init 実行→　.git フォルダ自動生成
 
 基本的なワークフローを学びます。
+
+git add
+git commit
